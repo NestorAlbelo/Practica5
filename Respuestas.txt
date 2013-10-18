@@ -1,0 +1,5 @@
+1.- ¿Cuál es el error en el código del método para calcular el máximo común divisor?
+	En el bucle While se debia cambiar el == por un !=
+
+2.- ¿Qué comandos del depurador utilizó para detectarlo? Describa la sesión de depuración.
+	Mediante el comando step del depurador se puede ir viendo que no entra en el bucle por lo que se deduce que habia que cambiar la condicion de entrada.
